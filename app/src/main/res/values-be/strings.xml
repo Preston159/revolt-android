@@ -448,7 +448,7 @@
     <string name="file_picker_chip_camera_none_installed">Праграма камеры не ўсталявана</string>
     <string name="settings_chat">Чат</string>
     <string name="settings_chat_quick_reply">Хуткі адказ</string>
-    <string name="settings_chat_quick_reply_none">Доўгі націск для адказу</string>
+    <string name="settings_chat_quick_reply_none">Без хуткага адказу</string>
     <string name="settings_chat_quick_reply_swipe_from_end">Чырканне для адказу</string>
     <string name="channel_settings">Налады канала</string>
     <string name="channel_settings_header">#%1$s</string>
@@ -595,4 +595,15 @@
     <string name="settings_chat_hint_poorly_formed_settings_keys_key_android">Revolt для Android</string>
     <string name="settings_chat_hint_poorly_formed_settings_keys_key_unknown">%1$s (невядома)</string>
     <string name="settings_chat_hint_poorly_formed_settings_keys_reset">Скінуць налады %1$s</string>
+    <string name="main_tab_communities">Супольнасці</string>
+    <string name="main_tab_conversations">Гутаркі</string>
+    <string name="main_tab_overview">Вы</string>
+    <string name="user_info_sheet_webhook_body">Webhooks - гэта аўтаматызаваныя трансляцыі з іншых сэрвісаў у Інтэрнэце. Яны не могуць адказваць у чаце, але вы ўсё роўна бачыце, што яны кажуць.</string>
+    <string name="swipe_to_reply_release">Адпусціце, каб адказаць</string>
+    <string name="spark_swipe_to_reply">Правядзенне для адказу ўжо тут.</string>
+    <string name="spark_swipe_to_reply_description">Стварэнне гутарак ніколі не было прасцей за гэта.\nПроста змахніце ўлева ад любога паведамлення.\nАдказвайце адначасова на пяць паведамленняў.</string>
+    <string name="spark_swipe_to_reply_cta">Файна</string>
+    <string name="spark_swipe_to_reply_customise">Змяніць хуткі адказ</string>
+    <string name="swipe_to_reply_keep_swiping">Адказаць</string>
+    <string name="settings_chat_quick_reply_none_description">Вы можаце адказаць з меню якога заўгодна паведамлення.</string>
 </resources>

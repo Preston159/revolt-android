@@ -381,7 +381,7 @@
     <string name="settings_appearance_colour_overrides_background">Arka Plan</string>
     <string name="settings_appearance_colour_overrides_surface">Yüzey</string>
     <string name="settings_chat_quick_reply">Hızlı yanıt</string>
-    <string name="settings_chat_quick_reply_none">Yanıtlamak için basılı tut</string>
+    <string name="settings_chat_quick_reply_none">Hızlı Yanıtlama Yok</string>
     <string name="settings_chat_quick_reply_swipe_from_end">Yanıtlamak için kaydır</string>
     <string name="settings_chat_quick_reply_double_tap">Yanıtlamak için çift tıkla</string>
     <string name="channel_settings_overview_save">Kaydet</string>
@@ -588,4 +588,13 @@
     <string name="spark_early_access_description_2">Bu erken erişim olduğundan, işler henüz mükemmel olmayabilir. Ara sıra hatalarla karşılaşabilirsiniz. Geri bildiriminiz hataları düzeltmemize ve Revolt\'u daha da iyi hale getirmemize yardımcı olur.</string>
     <string name="spark_early_access_cta">Anladım</string>
     <string name="hint_provide_feedback_description">Herhangi bir geri bildirimin, önerin veya hata bildirimin varsa lütfen bizi bundan haberdar et. Her zaman Revolt\'u iyileştirme peşindeyiz.</string>
+    <string name="spark_early_access_description_3">Seni aramızda görmekten mutluluk duyarız. Hadi birlikte güzel bir şey yaratalım!</string>
+    <string name="settings_chat_hint_poorly_formed_settings_keys_key_notifications">Bildirmler</string>
+    <string name="settings_chat_hint_poorly_formed_settings_keys_key_ordering">Sunucu Sıralaması</string>
+    <string name="settings_chat_hint_poorly_formed_settings_keys_key_android">Android için Revolt</string>
+    <string name="settings_chat_hint_poorly_formed_settings_keys_key_unknown">%1$s (bilinmiyor)</string>
+    <string name="settings_chat_hint_poorly_formed_settings_keys_reset">%1$s ayarını sıfırla</string>
+    <string name="settings_chat_hint_poorly_formed_settings_keys">İpucu</string>
+    <string name="settings_chat_hint_poorly_formed_settings_keys_description">Kimi Revolt ayarların bozuk. Bu, üçüncü taraf istemcilerin kullanımından kaynaklanmış olabilir. Etkilenen ayarlar şunlardır:</string>
+    <string name="spark_swipe_to_reply">Yanıtlamak için Kaydır geldi.</string>
 </resources>

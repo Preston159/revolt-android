@@ -243,7 +243,7 @@
     <string name="user_info_sheet_edit_profile">Редактировать профиль</string>
     <string name="user_info_sheet_report">Пожаловаться</string>
     <string name="user_info_sheet_copy_id">Копировать ID</string>
-    <string name="file_picker_chip_camera">Сделать фотографию</string>
+    <string name="file_picker_chip_camera">Камера</string>
     <string name="settings_appearance_colour_overrides_tertiary">Третичный</string>
     <string name="settings_appearance_colour_overrides_on_tertiary_container">На третичном контейнере</string>
     <string name="settings_appearance_colour_overrides_background">Фон</string>
@@ -286,7 +286,7 @@
     <string name="server_context_sheet_actions_leave_silently">Незаметно покинуть</string>
     <string name="user_info_sheet_block">Заблокировать</string>
     <string name="user_info_sheet_unblock">Разблокировать</string>
-    <string name="file_picker_chip_documents">Прикрепить файл</string>
+    <string name="file_picker_chip_documents">Файлы</string>
     <string name="settings_appearance_colour_overrides_on_tertiary">На третичном уровне</string>
     <string name="settings_appearance_colour_overrides_tertiary_container">Третичный контейнер</string>
     <string name="settings_appearance_colour_overrides_on_background">На фоне</string>
@@ -496,7 +496,7 @@
     <string name="message_blocked">Заблокированое сообщение</string>
     <string name="message_failed_to_send">Не удалось отправить, длительное нажатие для выбора параметров</string>
     <string name="programming_language_default">Обычный текст</string>
-    <string name="service_health_alert">В данный момент в норме</string>
+    <string name="service_health_alert">В настоящее время продолжается</string>
     <string name="service_health_alert_actions_default">Узнать подробнее</string>
     <string name="service_health_alert_actions_dismiss">Отклонить</string>
     <string name="colour_picker_hue_value_fmt">%1$d°</string>
@@ -571,8 +571,8 @@
     <string name="spark_keyboard_shortcuts">Использовать клавиатуру?</string>
     <string name="keyboard_shortcut_messaging">Печатать</string>
     <string name="user_card_data_point_join_date">%1$d.Появился в Revolt</string>
-    <string name="could_not_log_in_heading">Возникла проблема при вашем входе</string>
-    <string name="could_not_log_in_cta_try_again">Попробуйте снова</string>
+    <string name="could_not_log_in_heading">Возникла проблема при входе в</string>
+    <string name="could_not_log_in_cta_try_again">Попробуйте ещё раз</string>
     <string name="could_not_log_in_cta_logout">Выйти</string>
     <string name="programming_language_snippet">Фрагмент</string>
     <string name="spark_keyboard_shortcuts_cta">Открыть ярлыки</string>
@@ -596,4 +596,9 @@
     <string name="settings_chat_hint_poorly_formed_settings_keys">Подсказка</string>
     <string name="settings_chat_hint_poorly_formed_settings_keys_description">Некоторые из ваших настройек Revolt повреждены. Это может быть связано с использованием сторонних клиентов. К затронутым настройкам относятся:</string>
     <string name="settings_chat_hint_poorly_formed_settings_keys_key_android">Revolt для Android</string>
+    <string name="main_tab_communities">Сообщества</string>
+    <string name="main_tab_conversations">Разговоры</string>
+    <string name="main_tab_overview">Ты</string>
+    <string name="swipe_to_reply_keep_swiping">Ответить</string>
+    <string name="swipe_to_reply_release">Отпустите, чтобы ответить</string>
 </resources>

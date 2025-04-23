@@ -596,4 +596,7 @@
     <string name="spark_early_access_description_2">Yá que esto ye l’acesso antecipado, ye possible que cousas inda nun steian purfeitas. Puodes ancuntrar-te c’un dalgun bug, crash ó peculiaridade. L tou feedback ajuda-mos a melhorar las partes inda nó tan buonas pa fazer l Revolt inda melhor.</string>
     <string name="settings_chat_hint_poorly_formed_settings_keys">Hint</string>
     <string name="settings_chat_hint_poorly_formed_settings_keys_description">Dalgues de las tues cunfiguraçones de l Revolt stán danhadas. Esto puode ser porque outelizeste clientes de terceiros. Las cunfiguraçones danhadas son:</string>
+    <string name="main_tab_communities">Quemunidades</string>
+    <string name="main_tab_conversations">Cumbersas</string>
+    <string name="main_tab_overview">Tu</string>
 </resources>

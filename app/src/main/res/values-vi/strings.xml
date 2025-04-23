@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">← Trước</string>
+    <string name="next">Tiếp →</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="loading">Đang lấy thông tin, chờ tí…</string>
+    <string name="terms_of_service">Điều khoản dịch vụ</string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="community_guidelines">Nguyên tắc cộng đồng</string>
+    <string name="login_onboarding_heading">Tìm kiếm cộng đồng, kết nối thế giới.</string>
+    <string name="share">Chia sẻ</string>
+    <string name="lets_go">Đi thôi</string>
+    <string name="rate_limit_toast">Gượm đã! Bạn đang thao tác hơi nhanh đó.</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="hide_password">Ẩn mật khẩu</string>
+    <string name="show_password">Hiện mật khẩu</string>
+    <string name="resend">Gửi lại</string>
+    <string name="send_email">Gửi email</string>
+    <string name="service_health_alert">Hiện đang diễn ra</string>
+    <string name="service_health_alert_actions_default">Tìm hiểu thêm</string>
+    <string name="could_not_log_in_heading">Có vấn đề khi đăng nhập</string>
+    <string name="could_not_log_in_cta_try_again">Thử lại</string>
+    <string name="could_not_log_in_cta_logout">Đăng xuất</string>
+    <string name="login_onboarding_body">Revolt là một trong những cách tốt nhất để giữ liên lạc với bạn bè và cộng đồng của bạn, mọi lúc mọi nơi.</string>
+    <string name="login">Đăng nhập</string>
+    <string name="signup">Đăng ký</string>
+    <string name="service_health_alert_body_default">Hiện chúng tôi đang gặp trục trặc về dịch vụ. Kiểm tra trang trạng thái (status page) để biết thêm thông tin.</string>
+    <string name="service_health_alert_actions_dismiss">Bỏ qua</string>
+    <string name="could_not_log_in_body">Bạn có thể đã đăng xuất từ máy khác, hoặc có vấn đề kết nối internet.</string>
+</resources>

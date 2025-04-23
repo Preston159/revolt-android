@@ -596,4 +596,7 @@
     <string name="spark_keyboard_shortcuts_cta">Abrir atalhos</string>
     <string name="spark_keyboard_shortcuts_dismiss">Tudo certo</string>
     <string name="corner_radius_picker_circular">circular</string>
+    <string name="main_tab_communities">Comunidades</string>
+    <string name="main_tab_conversations">Conversas</string>
+    <string name="main_tab_overview">Você</string>
 </resources>

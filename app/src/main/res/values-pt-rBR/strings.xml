@@ -596,4 +596,13 @@
     <string name="settings_chat_hint_poorly_formed_settings_keys_key_unknown">%1$s (desconhecido)</string>
     <string name="hint_provide_feedback_description">Se você tiver quaisquer feedbacks, sugestões ou reportes de bug, deixe-nos saber. Estamos sempre procurando melhorar o Revolt.</string>
     <string name="settings_chat_hint_poorly_formed_settings_keys_description">Algumas das suas configurações do Revolt estão corruptas. Isso pode ser devido ao uso de clientes de terceiros. As configurações afetadas são:</string>
+    <string name="main_tab_communities">Comunidades</string>
+    <string name="main_tab_conversations">Bate-papo</string>
+    <string name="main_tab_overview">Você</string>
+    <string name="swipe_to_reply_keep_swiping">Responder</string>
+    <string name="swipe_to_reply_release">Solte para responder</string>
+    <string name="spark_swipe_to_reply">Deslize para responder está aqui.</string>
+    <string name="spark_swipe_to_reply_description">Fazer tópicos de mensagens nunca foi mais fácil.\nSó deslize para a esquerda em qualquer mensagem.\nResponda a 5 mensagens de uma vez.</string>
+    <string name="spark_swipe_to_reply_cta">Entendi</string>
+    <string name="spark_swipe_to_reply_customise">Customizar Resposta Rápida</string>
 </resources>

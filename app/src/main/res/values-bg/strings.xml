@@ -9,7 +9,7 @@
     <string name="terms_of_service">Условия за ползване</string>
     <string name="privacy_policy">Политика за поверителност</string>
     <string name="community_guidelines">Правила на общността</string>
-    <string name="login_onboarding_heading">Намерете своята общност, свържете се със света.</string>
+    <string name="login_onboarding_heading">Намери своята общност, свържи се със света.</string>
     <string name="loading">Извличаме информация, моля изчакайте…</string>
     <string name="login_heading">Нека ви впишем</string>
     <string name="login_onboarding_body">Revolt е един от най-добрите начини да поддържате връзка с вашите приятели и общност, навсякъде и по всяко време.</string>
@@ -75,4 +75,11 @@
     <string name="typing_several">Няколко човека пишат</string>
     <string name="too_many_replies">Можете да отговаряте само на %1$d съобщения наведнъж.</string>
     <string name="no_active_channel_body">Изберете сървър отляво, за да започнете. Ако се чувствате приключенски настроени, можете да създадете нов сървър.</string>
+    <string name="hide_password">Скрий парола</string>
+    <string name="show_password">Покажи парола</string>
+    <string name="service_health_alert_actions_default">Научете повече</string>
+    <string name="service_health_alert">В процес на изпълнение</string>
+    <string name="rate_limit_toast">Почакай! Твърде често извършваш това действие за кратък период на време.</string>
+    <string name="service_health_alert_body_default">В момента изпитваме проблеми с нашите услуги. Моля вижте страницата ни за състояние за повече информация.</string>
+    <string name="could_not_log_in_heading">Имаше проблем с влизането във вашият акоунт</string>
 </resources>
